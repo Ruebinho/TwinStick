@@ -7,6 +7,7 @@ public class MyScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		print("Github Test");
+		print("Test2");
 	}
 	
 	// Update is called once per frame
